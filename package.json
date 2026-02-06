@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@turf/turf": "^7.3.3",
+    "leaflet": "^1.9.4",
+    "leaflet-draw": "^1.0.4",
+    "leaflet-minimap": "^3.6.1",
+    "leaflet.browser.print": "^2.0.2"
+  }
+}
